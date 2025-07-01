@@ -1,0 +1,67 @@
+
+## 🔹 Arrays
+
+### 🟢 Easy
+
+1./ Find the maximum and minimum element in an array.
+2./ Reverse an array.
+3./ Find the "Kth" max and min element of an array.
+4./ Sort an array of 0s, 1s and 2s.
+5.x Move all negative numbers to one side of the array.
+6./ Left rotate an array by one position.
+7./ Check if an array is sorted.
+
+### 🟡 Medium
+
+8./ Find the union and intersection of two arrays.
+9.* Kadane’s Algorithm – Maximum subarray sum.
+10./ Find all pairs with a given sum.
+11./ Rotate array by K positions.
+12./ Longest consecutive subsequence.
+13./ Subarray with given sum (sliding window).
+14./ Merge two sorted arrays without extra space.
+
+### 🔴 Hard
+
+15./ Maximum product subarray.
+16.# Count inversions in an array.
+17.# Median of two sorted arrays.
+18./ Maximum sum subarray of size K.
+19.# Find the repeating and missing number.
+20.* Trapping Rain Water.
+21./ Maximum sum of non-adjacent elements.
+22.(vvi) Maximum sum of non-adjacent elements along with the array of elements.
+
+
+---
+
+## 🔹 Strings
+
+### 🟢 Easy
+
+1./ Reverse a string.
+2./ Check for palindrome.
+3./ Remove duplicate characters.
+4./ Check if two strings are anagrams.
+5.x Count vowels and consonants.
+6.x Convert string to uppercase/lowercase.
+
+### 🟡 Medium
+
+7./ Longest substring without repeating characters.
+8.# Longest common prefix.
+9./ Group anagrams.
+10./ Check if a string is a rotation of another.
+11.x(4) Compress the string (e.g. `aabcc` → `a2b1c2`).
+12./ Valid parentheses check.
+
+### 🔴 Hard
+
+13./vvi Rabin-Karp / KMP for substring search.
+14.* Longest palindromic substring.
+15. Minimum window substring.
+16./ Edit distance (Levenshtein distance).
+17. Word break problem.
+18./ Decode ways (like A=1, B=2, ...).
+19./ Count and say sequence.//very easy because it was just brute force
+
